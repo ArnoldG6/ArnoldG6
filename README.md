@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ArnoldG6
+- 👀 I’m interested in software development for backend and frontend.
+- 💞️ I’m looking to collaborate on public and private repositories.
+- 📫 You can contact me via "arnoldgq612@gmail.com".
